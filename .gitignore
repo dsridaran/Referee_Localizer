@@ -1,0 +1,5 @@
+data/*.csv
+data/*.parquet
+data/raw/*
+data/snipped/*
+
