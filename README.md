@@ -1,5 +1,7 @@
 # Referee Triangulation System
 
+![Referee Localization Example](/images/ex.png "Localization Diagram")
+
 ## Description
 This project provides a system for performing referee triangulation using sound data captured from multiple microphones placed around a sports field. The goal is to accurately localize the position of referees based on whistle sounds during matches. This system is valuable for enhancing the accuracy of referee tracking technologies.
 
