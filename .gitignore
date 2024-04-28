@@ -1,5 +1,11 @@
-data/*.csv
-data/*.parquet
 data/raw/*
-data/snipped/*
-
+data/meta/BRA_CRO/*
+data/meta/ENG_FRA/*
+data/snipped/BRA_CRO/*
+data/snipped/ENG_FRA/*
+data/results/BRA_CRO/*
+data/results/ENG_FRA/*
+data/results/*.csv
+src/!archive
+notebooks/!archive
+src/__pycache__/*
