@@ -1,4 +1,4 @@
-# Referee Triangulation System
+# Referee Localizer
 
 ![Referee Localization Example](/images/ex.png "Localization Diagram")
 
