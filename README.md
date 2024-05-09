@@ -75,4 +75,4 @@ The expected inputs for each match are organized as follows:
 
 ## Contact
 
-For questions or support, please contact dilan.sridaran@gmail.com.
+For questions or support on this code, please contact dilan.sridaran@gmail.com.
