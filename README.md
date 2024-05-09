@@ -5,7 +5,7 @@
 ## Description
 This project provides a system for performing referee triangulation using sound data captured from multiple microphones placed around a sports field. The goal is to accurately localize the position of referees based on whistle sounds during matches. This system is valuable for enhancing the accuracy of referee tracking technologies.
 
-![Referee Localization Example](/images/ex.png "Localization Diagram")
+![Referee Localization Example](/images/gif.gif "Localization Diagram")
 
 ## Installation
 To set up this project, clone the repository to your local machine and ensure that you have Jupyter Notebook installed to run `.ipynb` files.
