@@ -68,11 +68,17 @@ iterate_all_mics(match = XXX, half_1 = XXX, half_2 = XXX, half_3 = XXX, half_4 =
 
 The expected inputs for each match are organized as follows:
 
-- **data/raw/{match}/{microphone}.wav:** 48kHz audio data from 18 microphones.
-- **data/meta/{match}/whistles_{match}_Tagged.csv:** Tagged whistle times and microphones detected.
-- **data/meta/{match}/microphone_positions.csv:** Positional coordinates of each microphone.
-- **data/meta/{match}/refs_track_{match}.parquet:** 40Hz referee tracking data for validation.
+- **data/raw/{match}/{microphone}.wav:** 48kHz audio data from 18 microphones. This data was provided by Salsa Sound.
+- **data/meta/{match}/whistles_{match}_Tagged.csv:** Human-approximated tagged whistle times. This data was provided by Salsa Sound.
+- **data/meta/{match}/microphone_positions.csv:** Positional coordinates of each microphone. This data was provided by Salsa Sound.
+- **data/meta/{match}/refs_track_{match}.parquet:** 40Hz referee tracking data for validation. This data was provided by FIFA.
 
 ## Contact
 
-For questions or support on this code, please contact dilan.sridaran@gmail.com.
+For questions or support on this code, please contact Dilan SriDaran (dilan.sridaran@gmail.com).
+
+For questions or requests to access the Salsa-provided data, please contact Rob Oldfield (rob@salsasound.com).
+
+For questions or requests to access the Salsa-provided data, please contact Johsan Billingham (johsan.billingham@fifa.org).
+
+If you are interested in contributing further to this research, please contact Johsan Billingham (johsan.billingham@fifa.org).
