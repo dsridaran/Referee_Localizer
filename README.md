@@ -77,8 +77,8 @@ The expected inputs for each match are organized as follows:
 
 For questions or support on this code, please contact Dilan SriDaran (dilan.sridaran@gmail.com).
 
-For questions or requests to access the Salsa-provided data, please contact Rob Oldfield (rob@salsasound.com).
+For requests to access the Salsa data, please contact Rob Oldfield (rob@salsasound.com).
 
-For questions or requests to access the Salsa-provided data, please contact Johsan Billingham (johsan.billingham@fifa.org).
+For requests to access the FIFA data, please contact Johsan Billingham (johsan.billingham@fifa.org).
 
-If you are interested in contributing further to this research, please contact Johsan Billingham (johsan.billingham@fifa.org).
+If you are interested in contributing to this research, please contact Johsan Billingham (johsan.billingham@fifa.org).
