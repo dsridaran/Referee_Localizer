@@ -42,8 +42,8 @@ To localize a single whistle, use the following snippet in the perform_localizat
 ```bash
 # Load known referee positions (for validation)
 unique_positions = load_unique_ref_positions(
-    f"../data/meta/BRA_CRO/whistles_XXX_Tagged.csv",
-    f"../data/meta/BRA_CRO/refs_track_XXX.parquet",
+    f"../data/meta/XXX/whistles_XXX_Tagged.csv",
+    f"../data/meta/XXX/refs_track_XXX.parquet",
     half_1 = XXX, half_2 = XXX, half_3 = XXX, half_4 = XXX
 )
 
