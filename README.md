@@ -1,5 +1,7 @@
 ![Logo](/images/logo.png "Logo")
 
+This repository is part of a two-phase exploration of the use of sound data in football. The full report can be read [here](./Report%20-%20Innovations%20in%20Football%20From%20Pitchside%20Microphones.pdf).  
+
 # Referee Localizer
 
 ## Description
